@@ -11,7 +11,7 @@ elif(percentage>50.0 and percentage<60.0):
 elif (percentage>60.0 and percentage<70.0):
     print("Your grade is C")
 elif(percentage>70.0 and percentage<80.0):
-    print("Your grade is B")
+    print("Your grade is E")
 elif(percentage>80.0 and percentage<90.0):
     print("Your grade is A")
 else:
